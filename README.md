@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-I am looking for a summer intern 2027
+I am looking for a summer intern 2027 as a AI Engineer / Software Engineer or related :）
 
 📫 How to reach me:
 
-📧 b3239737781@gmail.com
+- a3239737781@gmail.com
+- Douyin: 
+- XiaoHongShu: 小火火
+
 
 🌱 Open source contributor @ [agegr/pi-web](https://github.com/agegr/pi-web)
