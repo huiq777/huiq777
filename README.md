@@ -11,7 +11,7 @@ I am looking for a summer intern 2027 as a AI Engineer / Software Engineer or re
 ## 📫 How to reach me:
 
 - a3239737781@gmail.com
-- Douyin: https://www.douyin.com/user/MS4wLjABAAAA72c1UIfwplYF1psU-WD-sq01M1X0OyaJv1e83CLDlMP19e886ClW_e23MQxGmdH4?from_tab_name=main
+- Douyin: [小火火]https://www.douyin.com/user/MS4wLjABAAAA72c1UIfwplYF1psU-WD-sq01M1X0OyaJv1e83CLDlMP19e886ClW_e23MQxGmdH4?from_tab_name=main
 - XiaoHongShu: [小火火](https://www.xiaohongshu.com/user/profile/68239043000000000a03eb48)
 
 
