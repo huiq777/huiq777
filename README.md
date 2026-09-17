@@ -5,12 +5,14 @@ I am looking for a summer intern 2027 as a AI Engineer / Software Engineer or re
 ## ME
 - CS @ UMich | Prev @ Seer Robotics as AI Engineer Intern
 
+🌱 Open source contributor @ [agegr/pi-web](https://github.com/agegr/pi-web)
 
-📫 How to reach me:
+
+## 📫 How to reach me:
 
 - a3239737781@gmail.com
-- Douyin: 
-- XiaoHongShu: 小火火
+- Douyin: https://www.douyin.com/user/MS4wLjABAAAA72c1UIfwplYF1psU-WD-sq01M1X0OyaJv1e83CLDlMP19e886ClW_e23MQxGmdH4?from_tab_name=main
+- XiaoHongShu: [小火火](https://www.xiaohongshu.com/user/profile/68239043000000000a03eb48)
 
 
-🌱 Open source contributor @ [agegr/pi-web](https://github.com/agegr/pi-web)
+
