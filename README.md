@@ -8,9 +8,10 @@ I am looking for a summer intern 2027 as a AI Engineer / Software Engineer or re
 
 
 🌱 Open source contributor @
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) <a href="https://github.com/The-PR-Agent/pr-agent"><img src="https://img.shields.io/github/stars/The-PR-Agent/pr-agent?style=for-the-badge&logo=github" width="184"></a>
-- [agegr/pi-web](https://github.com/agegr/pi-web) <a href="https://github.com/agegr/pi-web"><img src="https://img.shields.io/github/stars/agegr/pi-web?style=for-the-badge&logo=github" width="192"></a>
-- [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) <a href="https://github.com/Tencent/teamai-cli"><img src="https://img.shields.io/github/stars/Tencent/teamai-cli?style=for-the-badge&logo=github" width="172"></a>
+
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) <a href="https://github.com/The-PR-Agent/pr-agent"><img src="https://img.shields.io/github/stars/The-PR-Agent/pr-agent?style=for-the-badge&logo=github" width="184" align="absbottom"></a>
+- [agegr/pi-web](https://github.com/agegr/pi-web) <a href="https://github.com/agegr/pi-web"><img src="https://img.shields.io/github/stars/agegr/pi-web?style=for-the-badge&logo=github" width="192" align="absbottom"></a>
+- [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) <a href="https://github.com/Tencent/teamai-cli"><img src="https://img.shields.io/github/stars/Tencent/teamai-cli?style=for-the-badge&logo=github" width="172" align="absbottom"></a>
 
 
 
