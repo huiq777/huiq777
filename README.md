@@ -6,14 +6,10 @@ I am looking for a summer intern 2027 as a AI Engineer / Software Engineer or re
 - CS @ UMich | Prev @ Seer Robotics as AI Engineer Intern
 
 🌱 Open source contributor @
-<p>
-  <a href="https://github.com/agegr/pi-web"><img src="https://img.shields.io/github/stars/agegr/pi-web?style=for-the-badge&logo=github" width="192"></a>
-  <a href="https://github.com/agegr/pi-web">agegr/pi-web</a>
-</p>
-<p>
-  <a href="https://github.com/Tencent/teamai-cli"><img src="https://img.shields.io/github/stars/Tencent/teamai-cli?style=flat-square&logo=github" width="172"></a>
-  <a href="https://github.com/Tencent/teamai-cli">Tencent/teamai-cli</a>
-</p>
+- <a href="https://github.com/The-PR-Agent/pr-agent"><img src="https://img.shields.io/github/stars/The-PR-Agent/pr-agent?style=for-the-badge&logo=github" width="184"></a> [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+- <a href="https://github.com/agegr/pi-web"><img src="https://img.shields.io/github/stars/agegr/pi-web?style=for-the-badge&logo=github" width="192"></a> [agegr/pi-web](https://github.com/agegr/pi-web)
+- <a href="https://github.com/Tencent/teamai-cli"><img src="https://img.shields.io/github/stars/Tencent/teamai-cli?style=for-the-badge&logo=github" width="172"></a> [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)
+
 
 
 
