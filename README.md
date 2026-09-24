@@ -6,11 +6,9 @@ I am looking for a summer intern 2027 as a AI Engineer / Software Engineer or re
 - CS @ UMich | Prev @ Seer Robotics as AI Engineer Intern
 
 🌱 Open source contributor @ 
+- [![stars](https://img.shields.io/github/stars/agegr/pi-web?style=for-the-badge&logo=github)](https://github.com/agegr/pi-web) [agegr/pi-web](https://github.com/agegr/pi-web)
+- [![stars](https://img.shields.io/github/stars/Tencent/teamai-cli?style=for-the-badge&logo=github)](https://github.com/Tencent/teamai-cli) [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)
 
-- [agegr/pi-web](https://github.com/agegr/pi-web) ![stars](https://img.shields.io/github/stars/agegr/pi-web?style=for-the-badge&logo=github)
-
-
-- [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) ![GitHub stars](https://img.shields.io/github/stars/Tencent/teamai-cli?style=social)
 
 
 
