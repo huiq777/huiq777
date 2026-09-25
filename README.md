@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I am looking for a summer intern 2027 as a AI Engineer / Software Engineer or related :）
+PLEASE!! contact me if you think I would be a good fit :)
 
 ## ME
 - CS @ UMich | Prev @ Seer Robotics as AI Engineer Intern
