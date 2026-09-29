@@ -12,6 +12,7 @@
 🌱 Open source contributor @
 
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) <a href="https://github.com/bytedance/deer-flow"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=for-the-badge&logo=github" width="184" align="absbottom"></a>
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) <a href="https://github.com/zhayujie/CowAgent"><img src="https://img.shields.io/github/stars/zhayujie/CowAgent?style=for-the-badge&logo=github" width="184" align="absbottom"></a>
 - [neuml/txtai](https://github.com/neuml/txtai) <a href="https://github.com/neuml/txtai"><img src="https://img.shields.io/github/stars/neuml/txtai?style=for-the-badge&logo=github" width="184" align="absbottom"></a>
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) <a href="https://github.com/The-PR-Agent/pr-agent"><img src="https://img.shields.io/github/stars/The-PR-Agent/pr-agent?style=for-the-badge&logo=github" width="184" align="absbottom"></a>
 - [agegr/pi-web](https://github.com/agegr/pi-web) <a href="https://github.com/agegr/pi-web"><img src="https://img.shields.io/github/stars/agegr/pi-web?style=for-the-badge&logo=github" width="192" align="absbottom"></a>
