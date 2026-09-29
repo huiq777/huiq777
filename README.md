@@ -1,4 +1,5 @@
 ## Hi there 👋
+- Being down-to-earth and getting things done is the best way to show intelligence.
 
 - I am looking for a summer intern 2027 as a AI Engineer / Software Engineer or related :）
 - PLEASE!! contact me if you think I would be a good fit :)
