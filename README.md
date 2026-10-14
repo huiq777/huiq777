@@ -1,6 +1,4 @@
 ## Hi there 👋
-- Being down-to-earth and getting things done is the best way to show intelligence.
-
 - I am looking for a summer intern 2027 as a AI Engineer / Software Engineer or related :）
 - PLEASE!! contact me if you think I would be a good fit :)
 
@@ -32,6 +30,7 @@
 - a3239737781@gmail.com
 - Douyin: [小火火](https://www.douyin.com/user/MS4wLjABAAAA72c1UIfwplYF1psU-WD-sq01M1X0OyaJv1e83CLDlMP19e886ClW_e23MQxGmdH4?from_tab_name=main)
 - XiaoHongShu: [小火火](https://www.xiaohongshu.com/user/profile/68239043000000000a03eb48)
+<a href="https://www.douyin.com/user/MS4wLjABAAAA72c1UIfwplYF1psU-WD-sq01M1X0OyaJv1e83CLDlMP19e886ClW_e23MQxGmdH4"><img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="95"></a> <a href="https://www.xiaohongshu.com/user/profile/68239043000000000a03eb48"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" width="111"></a> <a href="https://space.bilibili.com/3546965797243036"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" width="147"></a>
 
 
 
