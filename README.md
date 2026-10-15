@@ -8,7 +8,7 @@
 
 
 🌱 Open source contributor @
-
+- [morluto/rea](https://github.com/morluto/rea) <a href="https://github.com/morluto/rea"><img src="https://img.shields.io/github/stars/morluto/rea?style=for-the-badge&logo=github" width="198" align="absbottom"></a>
 - [github/spec-kit](https://github.com/github/spec-kit) <a href="https://github.com/github/spec-kit"><img src="https://img.shields.io/github/stars/github/spec-kit?style=for-the-badge&logo=github" width="198" align="absbottom"></a>
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) <a href="https://github.com/bytedance/deer-flow"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=for-the-badge&logo=github" width="184" align="absbottom"></a>
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) <a href="https://github.com/Fission-AI/OpenSpec"><img src="https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=for-the-badge&logo=github" width="184" align="absbottom"></a>
